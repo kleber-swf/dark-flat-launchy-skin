@@ -14,6 +14,6 @@ A simple dark and flat skin for [Launchy](http://www.launchy.net/).
 
 ## Setup
 1. Go to [releases](https://github.com/kleber-swf/dark-flat-launchy-skin/releases) page and download the latest version.
-2. Extract/move the skin files to the `\skins` directory of Launchy (`%LocalAppData%\Launchy\skins` on Windows).
+2. Extract/move the skin files to the `\skins` directory inside Launchy preferences folder (`%LocalAppData%\Launchy\skins`) or installation folder (`C:\Program Files (x86)\Launchy\skins`).
 3. In Launchy, go to Settings > Skins and select the skin.
 
